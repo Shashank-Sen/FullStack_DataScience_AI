@@ -19,7 +19,7 @@ This learning journey covers the complete stack of data science tools and techno
 - Machine Learning (Sklearn, XGBoost, etc.)
 - Deep Learning (ANN, CNN, RNN using TensorFlow/Keras)
 
-### 🏗️ Backend & Deployment
+### 🏗️ Backend 
 - Flask / FastAPI
 - REST APIs
 - Model Deployment (Render, AWS, etc.)
