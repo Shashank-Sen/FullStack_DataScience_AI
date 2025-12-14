@@ -90,3 +90,5 @@ cricket_team.print_response(
     "Get the latest score of the India vs south africa match, recent stats for Virat Kohli, and cricket news.", 
     stream=True
 )
+
+# To Run: python cricket_agent_gemini.py
