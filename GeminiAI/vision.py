@@ -3,7 +3,6 @@ import os
 import pathlib
 import textwrap
 from PIL import Image
-
 import os
 os.environ['GEMINI_API_KEY'] = 'YOUR_API_KEY'
 
@@ -49,3 +48,4 @@ if submit:
 
 
 # TO RUN: streamlit run vision.py
+
