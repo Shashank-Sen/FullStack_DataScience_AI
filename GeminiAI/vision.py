@@ -3,8 +3,11 @@ import os
 import pathlib
 import textwrap
 from PIL import Image
+
 import os
-os.environ['GEMINI_API_KEY'] = 'YOUR_API_KEY'
+
+GEMINI_API_KEY = os.getenv("YOUR_GEMINI_API_KEY")
+
 
 import google.generativeai as genai
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])
